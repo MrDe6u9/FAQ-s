@@ -1,4 +1,4 @@
 # FAQ-s
 Just Practising my Html , css and javascript skills 
 
-link: 
+link: https://mrde6u9.github.io/FAQ-s/
